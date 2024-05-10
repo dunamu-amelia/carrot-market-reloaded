@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "vs-code-prettier-eslint.prettierLast": true,
+    "eslint.format.enable": true
+}
