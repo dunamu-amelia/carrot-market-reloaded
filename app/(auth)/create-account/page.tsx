@@ -1,5 +1,5 @@
 "use client";
-import { createAccount } from "@/app/create-account/actions";
+import { createAccount } from "@/app/(auth)/create-account/actions";
 import FormButton from "@/components/button";
 import Input from "@/components/input";
 import SocialLogin from "@/components/social-login";
